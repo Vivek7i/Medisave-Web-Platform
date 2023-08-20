@@ -46,11 +46,6 @@
 </br>
 ![ngo-mobile](https://user-images.githubusercontent.com/78265224/167241962-55e61bfc-2a0a-48e5-a866-2959d3a7b630.png)
 <br/>
-<h2>4. Other secondary pages created</h2>
-<p> 
-  About page creted containing details of our project.<br/>
-</p>
-![verify](https://user-images.githubusercontent.com/78265224/167283473-f676ced1-2230-4177-935d-c66aa7fcb410.png)
 <br/>
 <br/>
 
