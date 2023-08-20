@@ -1,22 +1,15 @@
 # Hackfest 2k22
 
-Team Project for Hackfest 2k22 Hackathon.
-<h3>Team Name : WEB DEMONS</h3>
-<h4> Team members : </h4>
-Vivek Agrawal (FRONTEND AND INTEGRATION) <br/>
-Bhimesh Agrawal (BACKEND AND INTEGRATION) <br/>
-Akash Mittal (FRONTEND) <br/>
-Syed Areeb (ML) <br/>
-Shubham Kurrey (UI/UX) <br/>
-<hr/>
 
-<b>Our Idea : </b>
-<p>We have created a platform where citizens would be able to upload the medicine's name they don't need anymore and then those medicines would be collected and re-distributed among needy people. Our application aims to reduce the medical wastage happening all over India by creating a simpler and easier way of communication between the citizens and the NGO's. This will also cut-off the demands of medicines and hence the cost.</p>
+@Vivek Agrawal
+
+<b>Main Idea : </b>
+<p>We have seen the price hike in the medicine industry during the covid time. So attaining that experience and trying to solve this issue, I have created a platform where citizens would be able to upload the medicine's name they don't need anymore and then those medicines would be collected and re-distributed among needy people. This application aims to reduce the medical wastage happening all over India by creating a simpler and easier way of communication between the citizens and the NGO's. This will also cut-off the demands of medicines and hence the cost.</p>
 
 <i>Some Background Knowledge: </i>
 <i> India's concern over medicine is a huge issue. India generated 56,898 tonnes of Covid-19 bio-medical waste between June 2020 and June 2021. Nowadays, medicines are getting costlier and not everyone can afford them. So instead of dumping the remaining medicines, it can be re-distributed(If not expired) to the people who need those Medicines. Such tasks are carried out by several NGO's but many citizens are still not aware of these and NGO's also lack a systematic way of collecting and redistributing medicines. </i>
 <hr/>
-<h1> Our Front-End :</h1>
+<h1>Front-End :</h1>
 
 <h2>1. SignIn-SignUp page created :</h2>
 <p>Sign-Up has 2 options, one for Donor and another for NGO, and accordingly it will redirect us to the corresponding page.</p>
@@ -32,7 +25,6 @@ Shubham Kurrey (UI/UX) <br/>
 <p>
   <b>1. Incentive Section :</b> To engage and motivate the user to donate medicine. <br/>
   <b>2. Form Section :</b> To get the details of the medicine that the donor wants to donate.<br/>
-  <i>ADDITIONAL FEATURE : In the form, if the donor is unable to fill the information of medicine, he can also upload the picture of the medicine and we have used OPEN CV to extract the name, strength, expiry-date and other required details.</i>
 </p>
 ![HomePageUser](https://user-images.githubusercontent.com/78265224/167241608-05c3e865-bf22-417f-89f9-2046d5f3dbab.png)
 <br>
@@ -59,7 +51,6 @@ Shubham Kurrey (UI/UX) <br/>
 <h2>4. Other secondary pages created</h2>
 <p> 
   About page creted containing details of our project.<br/>
-  OTP verification page created to enter and verify the OTP while signing up.<br/>
 </p>
 ![verify](https://user-images.githubusercontent.com/78265224/167283473-f676ced1-2230-4177-935d-c66aa7fcb410.png)
 <br/>
@@ -67,11 +58,11 @@ Shubham Kurrey (UI/UX) <br/>
 <br/>
 
 <hr/>
-<h1> Our Back-End :</h1>
+<h1>Back-End :</h1>
 <p>
-On the Backend part, we have created the database schema of the user and the medicine, also we have created various routes for login, registration, and donor form  filling, also we had setup nodemailer in the website to use as a mailing system these routes has been linked to the frontend of the website and hence the website works integratively.
+On the Backend part, I have created the database schema of the user and the medicine, also there I have created various routes for login, registration, and donor form  filling. Also I have used proper authentication for the users so that all the users get the secure and friendly experience
 <br/>
-  We have also enabled the data extraction through picture of medicine using Open-CV.
+  
 </p>
 <br/>
 
