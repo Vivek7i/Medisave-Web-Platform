@@ -52,7 +52,6 @@
 </p>
 ![verify](https://user-images.githubusercontent.com/78265224/167283473-f676ced1-2230-4177-935d-c66aa7fcb410.png)
 <br/>
-![about](https://user-images.githubusercontent.com/78265224/167283479-afbfa00a-6d72-4fd1-b365-2bd81d7371ed.png)
 <br/>
 
 <hr/>
