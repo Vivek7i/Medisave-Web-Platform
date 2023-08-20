@@ -1,5 +1,3 @@
-# Hackfest 2k22
-
 
 @Vivek Agrawal
 
