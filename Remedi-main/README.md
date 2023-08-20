@@ -2,7 +2,7 @@
 @Vivek Agrawal
 
 <b>Main Idea : </b>
-<p>We have seen the price hike in the medicine industry during the covid time. So attaining that experience and trying to solve this issue, I have created a platform where citizens would be able to upload the medicine's name they don't need anymore and then those medicines would be collected and re-distributed among needy people. This application aims to reduce the medical wastage happening all over India by creating a simpler and easier way of communication between the citizens and the NGO's. This will also cut-off the demands of medicines and hence the cost.</p>
+<p>We have seen the price hike in the medicine industry during the covid time. So attaining that experience and trying to solve this issue, I have created a platform using MERN stack where citizens would be able to upload the medicine's name they don't need anymore and then those medicines would be collected and re-distributed among needy people. This application aims to reduce the medical wastage happening all over India by creating a simpler and easier way of communication between the citizens and the NGO's. This will also cut-off the demands of medicines and hence the cost.</p>
 
 <i>Some Background Knowledge: </i>
 <i> India's concern over medicine is a huge issue. India generated 56,898 tonnes of Covid-19 bio-medical waste between June 2020 and June 2021. Nowadays, medicines are getting costlier and not everyone can afford them. So instead of dumping the remaining medicines, it can be re-distributed(If not expired) to the people who need those Medicines. Such tasks are carried out by several NGO's but many citizens are still not aware of these and NGO's also lack a systematic way of collecting and redistributing medicines. </i>
@@ -54,6 +54,8 @@
 <p>
 On the Backend part, I have created the database schema of the user and the medicine, also there I have created various routes for login, registration, and donor form  filling. Also I have used proper authentication for the users so that all the users get the secure and friendly experience
 <br/>
+<h1>Database:</h1>
+<p> For the database section I have used MongoDB and maintained the proper schema for the users using Mongoose.
   
 </p>
 <br/>
